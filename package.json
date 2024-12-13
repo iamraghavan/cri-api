@@ -1,4 +1,10 @@
 {
+  "name": "bumble-bees-cricket-api-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build needed for Node.js'"
+  },
   "dependencies": {
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
